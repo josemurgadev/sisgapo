@@ -1,6 +1,6 @@
 # SISGAPO
 
-[![CI](https://github.com/Jmurga16/sisgapo/actions/workflows/ci.yml/badge.svg)](https://github.com/Jmurga16/sisgapo/actions/workflows/ci.yml)
+[![CI](https://github.com/josemurgadev/sisgapo/actions/workflows/ci.yml/badge.svg)](https://github.com/josemurgadev/sisgapo/actions/workflows/ci.yml)
 
 Sistema de gestión de almacén de productos orgánicos. Multi-almacén, con categorías,
 lotes y control de vencimientos.
